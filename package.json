@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo 'No tests here'"
   },
+  "bin": {
+    "create-pug-starter": "index.js"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
